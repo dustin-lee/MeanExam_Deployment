@@ -1,0 +1,6 @@
+Public DNS
+ec2-54-213-125-17.us-west-2.compute.amazonaws.com
+Instance state
+
+Public IP
+54.213.125.17
